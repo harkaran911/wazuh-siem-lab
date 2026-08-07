@@ -186,9 +186,11 @@ Custom Kibana dashboard built with 4 panels:
 
 ### Screenshots
 
-> Add your screenshots here after uploading to the repo. Suggested layout:  
->   
-> Dashboard Overview MITRE ATT\&CK Mapping Brute Force Alerts Custom Rules Agent Overview
+![Dashboard Overview](screenshots/Screenshot%20(685).png)
+![MITRE ATT&CK Mapping](screenshots/Screenshot%20(686).png)
+![Brute Force Alerts](screenshots/image.png)
+![Custom Rules](screenshots/screenshot%20(687).jpeg)
+![Agent Overview](screenshots/screenshot%20(688).jpeg)
 
 ---
 
